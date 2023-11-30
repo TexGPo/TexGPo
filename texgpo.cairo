@@ -8,6 +8,10 @@ mod HelloStarknet {
     #[event]
     fn Hello(from: ContractAddress, value: felt252) {}
 
+    // event
+    #[event]
+    fn Hello(from: ContractAddress, value: felt252) {}
+
     // Call hello
     #[external]
     fn Say_Hello(message: felt252) {
