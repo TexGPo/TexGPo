@@ -16,4 +16,5 @@ mod HelloStarknet {
     }
 
     // Starknet is the best!
+    // There is no second best!
 }
