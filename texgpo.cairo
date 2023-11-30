@@ -9,8 +9,8 @@ mod HelloStarknet {
     fn Hello(from: ContractAddress, value: felt252) {}
 
     // event
-    #[event]
-    fn Hello(from: ContractAddress, value: felt252) {}
+    //#[event]
+    //fn Hello(from: ContractAddress, value: felt252) {}
 
     // Call hello
     #[external]
