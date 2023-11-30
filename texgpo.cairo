@@ -15,4 +15,5 @@ mod HelloStarknet {
         Hello(caller, message);
     }
 
+    // Starknet is the best!
 }
